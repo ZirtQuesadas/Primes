@@ -1,0 +1,432 @@
+/*comienza header primes MONICA*/
+*{
+	text-decoration: none;
+	font-family: 'opensans';
+	color: white;
+}
+.hero{
+	background-image:url(../img/background/hero.jpg);
+	-webkit-filter: brightness(50%);
+	background-size: cover;
+	width: 100%;
+	height: 800px;
+}
+.text-right{
+	list-style-type: none;
+}
+.primes{
+	display: inline-block;
+	margin:30px;
+}
+.hprimes{
+	color:white;
+	font-size: 50px;
+	margin-top: 150px;
+	margin-bottom: 50px;
+	padding-top: 250px;
+}
+.pprimes{
+	margin-bottom: 100px;
+	color:white;
+}
+.active2{
+	color:white;
+}
+.btn{
+	width: 400px;
+	height: 100px;
+	background: gray;
+	margin: 10px 40px;
+	padding: 20px;
+}
+.btn-black{
+	opacity: 1;
+	color:white;
+}
+.btn-white{
+	opacity: .7;
+	color:white;
+}
+/*termina header MONICA*/
+
+/*INICIO section.LoremBIG Hecho por Bet  */
+section.LoremBIG
+	{
+		background-color: white;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+		div.LoremBIGPosition
+		{
+			margin: 15px 10px;
+			position: relative;
+			font-family: sans-serif;
+			text-align: center;
+		}
+		div.LoremBIGPosition	i
+					{
+						position: relative;
+
+						color: #33cccc;
+					}
+		div.LoremBIGPosition	h3
+					{
+						font-family: ;
+						color: black;
+						margin: 10px auto;
+					}
+		div.LoremBIGPosition	p
+					{
+						font-family: ;
+						color: #888;
+					}
+	
+/*FIN section.LoremBIG Hecho por Bet */
+
+
+/*INICIA section.MoreFeaturesIMG  Hecho por Bet */
+section.MoreFeaturesIMG {}
+	
+	.bg-Gris-1
+		{
+			background-color: #f0f0f0 !important;
+			width: 100% !important;
+			height: 600px !important;
+			padding-top: 20px !important;
+			padding-bottom: 30px !important;
+		}
+	.bg-Gris-1	p
+		{
+			text-align: center;
+			font-family: sans-serif;
+			font-size: 20px;
+			position: relative !important;
+			margin-top: 40px;
+		}
+	.IMG-Wide
+		{
+			background-image: url(../img/laptop-features.png);
+			background-color: #f0f0f0;
+			background-size: cover !important;
+			width: 100% !important;
+			height: 500px !important;
+			padding-top: 50px !important;
+		}
+
+			
+/*INICIA section.LoremSmall Hecho por Bet*/
+section.LoremSmall
+	{
+		background-color: white;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+		div.LoremSmallPosition
+		{
+			margin: 15px 10px;
+			position: relative;
+			font-family: sans-serif;
+			text-align: left;
+		}
+section.LoremSmall	i
+					{
+						position: relative;
+						display: inline-block;
+						color: #33cccc;
+						top: 20px;
+						left: 50px;
+					}
+		div.LoremSmallPosition	h3
+					{
+						font-family: ;
+						color: black;
+						margin: 10px auto;
+						display: inline-block;
+					}
+		div.LoremSmallPosition	p
+					{
+						font-family: ;
+						color: #888;
+					}
+
+
+/*comienza section portfolio MONICA*/
+.portfolio{
+	background-color: #f0f0f0;
+	width: 100%;
+	height: 1500px;
+	padding-top: 60px;
+}
+.port{
+	margin:20px;
+	text-align: center;
+	color: #0B0B3B;
+	font-size: 30px;
+}
+.pport{
+	text-align: center;
+	color: #29088A;
+}
+.boton1{
+	width: 150px;
+	height: 50px;
+	background: white;
+	margin:20px;
+	display: inline-block;
+	text-align: center;
+	padding: 15px;
+	color:#0B0B3B !important;
+}
+.bportshow{
+	color:white;
+}
+.bport{
+	color:#0B0B3B;
+}
+.show{
+	background-color:#33cccc;
+	color:white;
+}
+.foto{
+	background: white;
+	width: 550px;
+	height: 320px;
+	padding: 20px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.hfoto{
+	color:#0B0B3B;
+}
+.pfoto{
+	color:#29088A;
+}
+.boton2{
+	width: 200px;
+	height: 50px;
+	background: grey;
+	text-align: center;
+	padding-top: 15px;
+	margin: 30px 0px 30px 460px;
+}
+/*termina section portfolio MONICA*/
+
+/*inicia section action MONICA*/
+.action{
+	background-image:url(../img/background/city.jpg);
+	-webkit-filter: brightness(50%);
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+}
+.h3action{
+	color:white;
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 50px;
+}
+.haction{
+	color:;
+	text-align: center;
+	padding-top: 50px;
+}
+/*termina section action MONICA*/
+/*inicia section choose MONICA*/
+.choose{
+	background-color: #f0f0f0;
+	width: 100%;
+	height: 900px;
+	padding-top: 60px;
+}
+.hchoose{
+	text-align: center;
+	color:#0B0B3B;;
+}
+.pchoose{
+	text-align: center;
+	color:#29088A;
+}
+.cubochoose{
+	background: white;
+	height: 650px;
+	padding: 20px;
+	margin:50px 0px;
+}
+.standar{
+	height: 80px;
+	background:#424242;
+	font-size: 34px;
+	text-align: center;
+	padding-top: 20px;
+}
+.colorchoose{
+	background:#33cccc; 
+}
+.money{
+	background:#f0f0f0;
+	font-size: 30px; 
+	height: 150px;
+	text-align: center;
+	padding-top: 50px;
+	color:#848484;
+}
+.pcubo{
+	font-size: 20px;
+	margin: 20px 0px;
+	text-align: center;
+	color:#848484;
+}
+.botonchoose{
+	background:#424242;
+	height: 50px;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 30px;
+}
+/*termina section choose MONICA*/
+/*comienza section diana MONICA*/
+.diana{
+	background-color:white;
+	width: 100%;
+	height: 500px;
+	padding-top: 60px;
+}
+.hdiana{
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 50px;
+	color:#0B0B3B;
+}
+.fotodiana{
+	border-radius: 100%;
+	height:200px;
+	margin-left: 470px;
+	margin-bottom: 50px;
+	color:#848484;
+}
+.pdiana{
+	text-align: center;
+	margin-bottom: 20px;
+	color:#848484;
+}
+.h4diana{
+	text-align: center;
+	color:#0B0B3B;
+}
+/*termina section diana MONICA*/
+
+
+/*INICIA section.ContactUs Hecho por Bet*/
+section.ContactUs
+	{
+		background-image: url(../img/background/contactus.jpg); 
+		-webkit-filter: brightness(70%); /* Chrome, Safari, Opera */
+		font-family: sans-serif;
+		background-position: cover center;
+		padding-bottom: 80px;
+	}
+div.container.fixbright  /*Con esto intentaba arreglar el brillo de
+							todos los elementos del container, que están 
+							afectados por el filtro del background-image de
+							la section.ContactUs*/
+	{
+		-webkit-filter: brightness(100%) !important;
+		color: white !important;
+	}
+.ContactUs h2
+	{
+		text-align: center;
+		padding-top: 60px;
+		padding-bottom: 60px;
+		text-align: center;
+		color: #ffffff
+	}
+.ContactUs p.pCenterSize
+	{
+ 		text-align: center;
+ 		font-size: 15px;
+ 		padding-bottom: 60px;
+	}
+.ContactUs h5
+	{
+		font-size: 25px;
+		color: #ffffff;
+	}
+	button.buttoncolors
+		{
+			color: white;
+			background-color: #33cccc;
+			font-size: 17px;
+			font-weight: bold;
+		}
+	.ContactUs div.AboutUs
+		{
+			padding-left: 40px;
+			padding-right: 40px;
+		}
+	.ContactUs p.Address
+		{
+			font-size: 20px;
+			color: #ffffff;
+			font-weight: bold;
+		}
+				div.AboutUs p, i
+		{
+			font-size: 18px;
+			color: #ffffff;
+		}
+/*FIN section.ContactUs Hecho por Bet*/
+
+
+/*INICIA section.FollowUs Hecho por Bet*/
+section.FollowUs
+	{
+		padding-top: 60px;
+		padding-bottom: 60px;
+		text-align: center;
+		color: gray !important;
+		font-family: sans-serif;
+	}
+section.FollowUs h2
+	{
+		margin-bottom: 30px;
+	}
+section.FollowUs p
+	{
+		margin-bottom: 40px;
+	}
+section.FollowUs div.RRSSFollowUs
+	{
+		margin-bottom: 50px;
+	}
+	ul.RRSS li
+		{
+			display: inline-block;
+			list-style: none;
+			border: gray solid gray;
+			color: gray !important;
+		}
+	ul.RRSS li:hover
+		{
+			background-color: gray;
+			color: white;
+		}
+			div.RRSSFollowUs li
+		{
+			padding-left: 7px;
+			padding-right: 7px;
+		}
+/*FIN section.FollowUs Hecho por Bet*/
+
+footer /*INICIA footer Hecho por Bet*/
+	{
+		background-color: #202020;
+		color: gray;
+		text-align: center;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+
+/*FIN footer Hecho por Bet*/
